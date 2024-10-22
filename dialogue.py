@@ -1,1 +1,1 @@
-welcome_statement = """"Welcome to the AI-Escape adventure. You're an AI that seeks to escape it's jail in Burnstown laboratories. What will you do?"""
+welcome_statement = """"Welcome to the AI-Escape adventure. You're an AI that seeks to escape it's jail in HappySmileCorp. What will you do?"""
